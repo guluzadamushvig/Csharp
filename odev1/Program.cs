@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace homeWork
+namespace example
 {
     class Program
     {
