@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Donguler\Loops.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{D35A0510-2511-4982-A58D-4120B412F2A3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "homeWork", "odev1\homeWork.csproj", "{EE1DCAF1-4CAD-4DBC-B959-B8E517FB54AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example", "odev1\Example.csproj", "{EE1DCAF1-4CAD-4DBC-B959-B8E517FB54AA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metods", "Metods\Metods.csproj", "{37C32FF2-06C7-46F3-A1D0-85A2276AF492}"
 EndProject
