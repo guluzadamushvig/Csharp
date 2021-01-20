@@ -17,7 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mathematics", "Mathematics\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferenceTypeValueType", "ReferenceTypeValueType\ReferenceTypeValueType.csproj", "{2425D284-4357-4DD2-ADCA-984F4A1F4BCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethodDemo", "ClassMethodDemo\ClassMethodDemo.csproj", "{BA851BA3-A85F-4E21-A920-1910E13038E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMethodDemo", "ClassMethodDemo\ClassMethodDemo.csproj", "{BA851BA3-A85F-4E21-A920-1910E13038E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPIntro", "OOPIntro\OOPIntro.csproj", "{591E15EF-8B9B-4871-ACDF-CBA65CACEA59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{6BCF3D93-CE70-43A1-9BA0-B0044E7797EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{D27EF4D0-EB5E-457F-8B88-B6AE77CCB0E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +63,18 @@ Global
 		{BA851BA3-A85F-4E21-A920-1910E13038E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA851BA3-A85F-4E21-A920-1910E13038E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA851BA3-A85F-4E21-A920-1910E13038E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{591E15EF-8B9B-4871-ACDF-CBA65CACEA59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{591E15EF-8B9B-4871-ACDF-CBA65CACEA59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{591E15EF-8B9B-4871-ACDF-CBA65CACEA59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{591E15EF-8B9B-4871-ACDF-CBA65CACEA59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BCF3D93-CE70-43A1-9BA0-B0044E7797EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BCF3D93-CE70-43A1-9BA0-B0044E7797EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BCF3D93-CE70-43A1-9BA0-B0044E7797EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BCF3D93-CE70-43A1-9BA0-B0044E7797EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D27EF4D0-EB5E-457F-8B88-B6AE77CCB0E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D27EF4D0-EB5E-457F-8B88-B6AE77CCB0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D27EF4D0-EB5E-457F-8B88-B6AE77CCB0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D27EF4D0-EB5E-457F-8B88-B6AE77CCB0E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
